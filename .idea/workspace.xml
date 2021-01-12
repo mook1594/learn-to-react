@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="303c194c-deda-440a-81d9-0da24048bff4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/react_skills/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/react_skills/chapter1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/react_skills/chapter2/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mx0KBxnGKeQ1Tuz1h3h7quYYpn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="303c194c-deda-440a-81d9-0da24048bff4" name="Default Changelist" comment="" />
+      <created>1610419868713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610419868713</updated>
+      <workItem from="1610419869877" duration="1889000" />
+      <workItem from="1610457281400" duration="573000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1610419980051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610419980051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init project">
+      <created>1610420059358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610420059358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2537" y="315" key="CommitChangelistDialog2" timestamp="1610420059230">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2537" y="315" key="CommitChangelistDialog2/1680.23.2560.1417/4240.23.1920.1057/0.23.1680.1027@1680.23.2560.1417" timestamp="1610420059230" />
+    <state x="2560" y="471" key="Vcs.Push.Dialog.v2" timestamp="1610420063103">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2560" y="471" key="Vcs.Push.Dialog.v2/1680.23.2560.1417/4240.23.1920.1057/0.23.1680.1027@1680.23.2560.1417" timestamp="1610420063103" />
+    <state x="2625" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1610420368312">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2625" y="348" width="670" height="676" key="search.everywhere.popup/1680.23.2560.1417/4240.23.1920.1057/0.23.1680.1027@1680.23.2560.1417" timestamp="1610420368312" />
+  </component>
+</project>
