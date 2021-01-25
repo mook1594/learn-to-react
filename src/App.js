@@ -1,8 +1,8 @@
 import "./App.css";
-import Counter from "./chapter3/Counter";
-import MyComponent from "./MyComponent";
+import React from "react";
+import EventPractice from "./chapter4/EventPractice_Functional";
 
 const App = () => {
-  return <Counter>리액트</Counter>;
+  return <EventPractice />;
 };
 export default App;
