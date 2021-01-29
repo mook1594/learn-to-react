@@ -11,3 +11,5 @@
 ### [4장. 이벤트 헨들링](./chapter4/README.md)
 
 ### [5장. ref: DOM에 이름 달기](./chapter5/README.md)
+
+### [6장. 컴포넌트 반복](./chapter6/README.md)
