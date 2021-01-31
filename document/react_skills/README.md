@@ -13,3 +13,5 @@
 ### [5장. ref: DOM에 이름 달기](./chapter5/README.md)
 
 ### [6장. 컴포넌트 반복](./chapter6/README.md)
+
+### [7장. 컴포넌트의 라이프사이클 메서드](./chapter7/README.md)
