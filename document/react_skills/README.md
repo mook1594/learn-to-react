@@ -15,3 +15,5 @@
 ### [6장. 컴포넌트 반복](./chapter6/README.md)
 
 ### [7장. 컴포넌트의 라이프사이클 메서드](./chapter7/README.md)
+
+### [8장. Hooks](./chapter8/README.md)
