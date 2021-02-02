@@ -11,6 +11,7 @@ import CounterReducer from "./chapter8/CounterReducer";
 import InfoReducer from "./chapter8/InfoReducer";
 import Average from "./chapter8/Average";
 import AverageRef from "./chapter8/AverageRef";
+import SassComponent from "./chapter9/SassComponent"
 
 function getRandomColor() {
   return "#" + Math.floor(Math.random() * 16777215).toString(16);
@@ -43,7 +44,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Info></Info>
+        <SassComponent></SassComponent>
         {/*
         <ScrollBox ref={(ref) => (this.scrollBox = ref)} />
           <button onClick={() => this.scrollBox.scrollToBottom()}>
