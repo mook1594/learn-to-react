@@ -28,9 +28,43 @@ body {
 ```
 
 #### Sass 라이브러리 설치
-```shell
+```bash
 $ yarn add node-sass
+$ yarn add node-sass@4.14.1
 ```
+#### sass-loader 설정 커스터마이징
+```shell
+$ yarn eject
+```
+##### config/webpack.config.js
+```javascript
+{
+    test: sassRegex,
+    exclude: sassModuleRegex,
+    use: getStyleLoaders(
+    {
+        importLoaders: 3,
+        sourceMap: isEnvProduction
+        ? shouldUseSourceMap
+        : isEnvDevelopment,
+    }
+    //'sass-loader'
+    ).concat({
+    loader: require.resolve('sass-loader'),
+    options:{
+        sassOptions:{
+            includePaths:[paths.appSrc + '/styles']
+        },
+        sourceMap: isEnvProduction
+        ? shouldUseSourceMap
+        : isEnvDevelopment,
+        prependData: `@import 'utils';`
+    }
+    }),
+    sideEffects: true,
+},
+```
+
 
 ### 9.3 CSS Module
 
