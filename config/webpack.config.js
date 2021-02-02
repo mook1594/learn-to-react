@@ -516,7 +516,7 @@ module.exports = function (webpackEnv) {
                   sourceMap: isEnvProduction
                   ? shouldUseSourceMap
                   : isEnvDevelopment,
-                  prependData: `@import 'utils';`
+                  prependData: `@import 'utils.scss';`
                 }
               }),
               // Don't consider CSS imports dead code even if the
